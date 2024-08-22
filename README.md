@@ -1,6 +1,8 @@
 # TASK1_API
 API backend in Spring
 
+On Application Deployment file --add-host db:your_server/local_ipaddress
+
 The Micro-service has the below endpoints
 
 1.  http://localhost:8082/api/createAccount
